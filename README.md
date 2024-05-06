@@ -1,4 +1,7 @@
 ### Hi there 👋
+Eason Fu, a college student in JLU, and this is my private profile.
+
+I am
 
 <!--
 **Eason-Fu/Eason-Fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
